@@ -15,8 +15,7 @@ It combines **data preprocessing, exploratory data analysis (EDA), multiple ML m
 
 ## 🗂️ Files in Repository  
 - `Insurance_Claim_Prediction.ipynb` → Jupyter Notebook with preprocessing, modeling, and evaluation.  
-- `car_insurance.csv` → Dataset used for training and testing.  
-- *(Optional)* `Insurance_Claim_Prediction_PPT.pptx` → Project presentation summarizing results and recommendations.  
+- `car_insurance.csv` → Dataset used for training and testing. 
 
 ---
 
